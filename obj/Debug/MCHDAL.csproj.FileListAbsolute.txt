@@ -1,0 +1,56 @@
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\bin\Debug\MCHDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\bin\Debug\MCHDAL.pdb
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\MCHDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\MCHDAL.pdb
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\MCHDAL.Resources.resources
+C:\Users\23767\Documents\Visual Studio 2015\Projects\CLIA\CLIADAL\bin\Debug\MCHDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\CLIA\CLIADAL\bin\Debug\MCHDAL.pdb
+C:\Users\23767\Documents\Visual Studio 2015\Projects\CLIA\CLIADAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache
+C:\Users\23767\Documents\Visual Studio 2015\Projects\CLIA\CLIADAL\obj\Debug\MCHDAL.Resources.resources
+C:\Users\23767\Documents\Visual Studio 2015\Projects\CLIA\CLIADAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+C:\Users\23767\Documents\Visual Studio 2015\Projects\CLIA\CLIADAL\obj\Debug\MCHDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\CLIA\CLIADAL\obj\Debug\MCHDAL.pdb
+E:\马楚豪毕业设计\CLIA\CLIADAL\bin\Debug\MCHDAL.dll
+E:\马楚豪毕业设计\CLIA\CLIADAL\bin\Debug\MCHDAL.pdb
+E:\马楚豪毕业设计\CLIA\CLIADAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache
+E:\马楚豪毕业设计\CLIA\CLIADAL\obj\Debug\MCHDAL.Resources.resources
+E:\马楚豪毕业设计\CLIA\CLIADAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+E:\马楚豪毕业设计\CLIA\CLIADAL\obj\Debug\MCHDAL.dll
+E:\马楚豪毕业设计\CLIA\CLIADAL\obj\Debug\MCHDAL.pdb
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Main\CLIADAL\bin\Debug\MCHDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Main\CLIADAL\bin\Debug\MCHDAL.pdb
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Main\CLIADAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Main\CLIADAL\obj\Debug\MCHDAL.Resources.resources
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Main\CLIADAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Main\CLIADAL\obj\Debug\MCHDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Main\CLIADAL\obj\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\2017.1.23\Main\CLIADAL\bin\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\2017.1.23\Main\CLIADAL\bin\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\2017.1.23\Main\CLIADAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache
+C:\Users\fosun\Desktop\2017.1.23\Main\CLIADAL\obj\Debug\MCHDAL.Resources.resources
+C:\Users\fosun\Desktop\2017.1.23\Main\CLIADAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+C:\Users\fosun\Desktop\2017.1.23\Main\CLIADAL\obj\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\2017.1.23\Main\CLIADAL\obj\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\20170221\Main\CLIADAL\bin\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\20170221\Main\CLIADAL\bin\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\20170221\Main\CLIADAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache
+C:\Users\fosun\Desktop\20170221\Main\CLIADAL\obj\Debug\MCHDAL.Resources.resources
+C:\Users\fosun\Desktop\20170221\Main\CLIADAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+C:\Users\fosun\Desktop\20170221\Main\CLIADAL\obj\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\20170221\Main\CLIADAL\obj\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\20170303\Main\CLIADAL\bin\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\20170303\Main\CLIADAL\bin\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\20170303\Main\CLIADAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache
+C:\Users\fosun\Desktop\20170303\Main\CLIADAL\obj\Debug\MCHDAL.Resources.resources
+C:\Users\fosun\Desktop\20170303\Main\CLIADAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+C:\Users\fosun\Desktop\20170303\Main\CLIADAL\obj\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\20170303\Main\CLIADAL\obj\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\20170306\Main\CLIADAL\bin\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\20170306\Main\CLIADAL\bin\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\20170306\Main\CLIADAL\obj\Debug\MCHDAL.Resources.resources
+C:\Users\fosun\Desktop\20170306\Main\CLIADAL\obj\Debug\MCHDAL.csproj.GenerateResource.Cache
+C:\Users\fosun\Desktop\20170306\Main\CLIADAL\obj\Debug\MCHDAL.dll
+C:\Users\fosun\Desktop\20170306\Main\CLIADAL\obj\Debug\MCHDAL.pdb
+C:\Users\fosun\Desktop\20170306\Main\CLIADAL\obj\Debug\MCHDAL.csprojResolveAssemblyReference.cache

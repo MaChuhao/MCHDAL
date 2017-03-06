@@ -1,0 +1,7 @@
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\bin\Debug\ScpDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\bin\Debug\ScpDAL.pdb
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\bin\Debug\ScpModel.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\bin\Debug\ScpModel.pdb
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\ScpDAL.csprojResolveAssemblyReference.cache
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\ScpDAL.dll
+C:\Users\23767\Documents\Visual Studio 2015\Projects\Scpmch\ScpDAL\obj\Debug\ScpDAL.pdb
